@@ -87,10 +87,6 @@
 		{
 			"Name": "AnimationLocomotionLibrary",
 			"Enabled": true
-		},
-		{
-			"Name": "RLPlugin",
-			"Enabled": true
 		}
 	]
 }
